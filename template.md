@@ -1,4 +1,3 @@
-.github/PULL_REQUEST_TEMPLATE
 Test1
 -
 -
